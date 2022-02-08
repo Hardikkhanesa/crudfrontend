@@ -19,3 +19,8 @@ For production use `npm run build` but before we need to **purge** all tailwind 
 
 1. Inside `tailwind.config.js` be sure to have `purge: {enabled: true}` as it will make a big difference in build size.
 2. now run `npm run build`, you will get a folder named "prod".
+
+
+# Screenshot
+
+![Screenshot from 2022-02-08 23-14-08](https://user-images.githubusercontent.com/26074662/153045645-161937fe-6ba8-411f-9234-bf769a9ae116.png)
